@@ -1,4 +1,4 @@
-# Mexican-Resturant-Rating-Business-idea
+# Mexican Resturant Business/Investment Case Study
 
 ![](intro.image.jpeg)
 
