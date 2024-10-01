@@ -27,6 +27,9 @@ The following Power BI features and skills were incorporated
 - Data Visualization
 - Problem Solving
 
+## Tool Used
+- Power BI
+
 
 ## Visualization:
 
